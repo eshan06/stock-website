@@ -1,9 +1,9 @@
-gunicorn==20.0.4
-chart_studio==1.1.0
-Flask==2.1.2
+gunicorn
+chart_studio
+Flask
 ipython
-pandas==1.4.3
-pandas_datareader==0.10.0
-plotly==5.9.0
-yahoo_fin==0.8.9.1
-yfinance==0.1.74
+pandas
+pandas_datareader
+plotly
+yahoo_fin
+yfinance
