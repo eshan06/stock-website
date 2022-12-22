@@ -5,5 +5,5 @@ ipython
 pandas
 pandas_datareader
 plotly
-yahoo_fin
-yfinance
+yahoo_fin==0.8.9.1
+yfinance==0.1.74
